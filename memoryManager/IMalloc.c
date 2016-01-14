@@ -179,16 +179,3 @@ void *Irealloc(void *p,size_t size){
 	}
 	return (NULL);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
